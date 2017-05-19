@@ -1,1 +1,11 @@
-http://mypath;ddddeeeeeffff
+{
+    "code": 1,
+    "message": "success",
+    "data": [
+        {
+            "picture": "http://7xocwo.com1.z0.glb.clouddn.com/xbmcopen.png",
+            "md5": "5476A6D35210387E69C5FFD6EC851F5F",
+            "id": "4"
+        }
+    ]
+}
